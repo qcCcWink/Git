@@ -14,5 +14,7 @@ public class GitTest {
 		System.out.println("这是我的第一个Git项目 版本五 master演示代码冲突");
 		System.out.println("这是我的第一个Git项目 版本五 演示代码冲突问题");
 		System.out.println("这是我的第一个Git项目 版本六");
+		System.out.println("这是我的第一个Git项目 版本七");
+		
 	}
 }
